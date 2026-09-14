@@ -8,7 +8,7 @@ const char* WIFI_PASSWORD = "LUBRIFICANTEXOTAL";
 const char* SERVER_URL =
   "http://192.168.1.100:3000/trigger";
 
-const int BOTAO_GPIO = 23;
+const int BOTAO_GPIO = 18;
 
 bool ultimoEstado = HIGH;
 
